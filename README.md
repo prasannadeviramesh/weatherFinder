@@ -1,3 +1,7 @@
+## Live Demo
+
+👉 [View Live Project](https://prasannadeviramesh.github.io/weatherFinder/)
+
 # Weather Finder 🌦️
 
 Weather Finder is a simple and modern weather web app that lets you check **real-time weather details for any city** in the world.  
@@ -68,13 +72,8 @@ Replace it with your own API key from:
 
 - Improve UI and accessibility
 ---
-  
+## Contact
+
+📧 [Email Me](prasannadeviramesh.r@gmail.com)
 
 
-
-
-
-
-## Author
-
-**Prasannadevi R**
