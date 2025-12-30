@@ -1,6 +1,10 @@
 ## Live Demo
 
 👉 [View Live Project](https://prasannadeviramesh.github.io/weatherFinder/)
+## Screenshot
+
+![Weather App UI](Screenshot%202025-12-30%20152316.png)
+
 
 # Weather Finder 🌦️
 
